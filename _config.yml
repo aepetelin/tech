@@ -10,7 +10,7 @@ url: https://aepetelin.github.io/tech
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: /tech
+baseurl: /tech/
 
 # This can be '' to hide the Github nav button
 github: 'aepetelin/tech'
